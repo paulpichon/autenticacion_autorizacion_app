@@ -4,6 +4,7 @@
 
 
 .env
+docker-compose.yml
 
 mongo/
 postgres/
@@ -11,4 +12,3 @@ node_modules/
 dist/
 build/
 coverage/
-docker-compose.yml

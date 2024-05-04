@@ -7,7 +7,6 @@ export class AuthController {
     constructor() {}
 
     // metodos
-
     // register
     registerUser = ( req: Request , res: Response ) => {
         // respuesta
